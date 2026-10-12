@@ -1,0 +1,70 @@
+﻿[
+    {
+        "file":  "nextjs.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+    },
+    {
+        "file":  "react.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    },
+    {
+        "file":  "javascript.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    },
+    {
+        "file":  "typescript.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    },
+    {
+        "file":  "html5.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+    },
+    {
+        "file":  "css3.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+    },
+    {
+        "file":  "tailwindcss.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+        "file":  "python.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    },
+    {
+        "file":  "fastapi.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+    },
+    {
+        "file":  "laravel.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
+    },
+    {
+        "file":  "php.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+    },
+    {
+        "file":  "mysql.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+    },
+    {
+        "file":  "git.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+    },
+    {
+        "file":  "github.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    },
+    {
+        "file":  "postman.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
+    },
+    {
+        "file":  "vscode.svg",
+        "source":  "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+    },
+    {
+        "file":  "apache-doris.svg",
+        "source":  "https://doris.apache.org/images/brand-assets/doris-logo-stacked-primary.svg"
+    }
+]
