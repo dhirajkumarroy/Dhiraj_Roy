@@ -24,7 +24,7 @@ export function Hero({ profile }: { profile: Profile }) {
               <span className="orange-period">.</span>
             </span>
             <br />
-            <TypewriterRole text={`${profile.role}.`} />
+            <TypewriterRole texts={profile.roles} />
           </h1>
           <p className="hero-description">{profile.summary}</p>
           <div className="button-row">

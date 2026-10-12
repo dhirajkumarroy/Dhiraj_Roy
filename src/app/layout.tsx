@@ -34,6 +34,7 @@ export const metadata: Metadata = {
   keywords: [
     profile.name,
     profile.role,
+    ...profile.roles,
     ...profile.currentStack,
     "React Developer",
     "Laravel Developer",

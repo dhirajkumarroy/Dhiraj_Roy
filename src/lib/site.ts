@@ -13,7 +13,7 @@ function resolveSiteUrl(value: string | undefined): string {
 
 export const siteConfig = {
   url: resolveSiteUrl(process.env.NEXT_PUBLIC_SITE_URL),
-  title: `${profile.name} | ${profile.role}`,
-  description: `Portfolio of ${profile.name}, a ${profile.role} working with ${profile.currentStack.join(", ")} at ${profile.company}`,
+  title: `${profile.name} | ${profile.roles.join(" & ")}`,
+  description: `Portfolio of ${profile.name}, a ${profile.roles.join(" and ")} working with ${profile.currentStack.join(", ")} at ${profile.company}`,
   locale: "en_IN",
 } as const;

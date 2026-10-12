@@ -17,6 +17,7 @@ export interface Profile {
   name: string;
   initials: string;
   role: string;
+  roles: string[];
   company: string;
   startDate: string;
   currentStack: string[];

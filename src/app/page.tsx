@@ -37,7 +37,7 @@ export default async function Home() {
         "@id": personId,
         name: profile.name,
         url: siteConfig.url,
-        jobTitle: profile.role,
+        jobTitle: profile.roles,
         description: profile.summary,
         email: profile.contact.email,
         telephone: profile.contact.phone,

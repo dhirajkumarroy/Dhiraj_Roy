@@ -3,7 +3,8 @@ import type { Profile } from "@/types/portfolio";
 export const profile: Profile = {
   name: "Dhiraj Roy",
   initials: "DR",
-  role: "Full Stack & Android App Developer",
+  role: "Full Stack Developer",
+  roles: ["Full Stack Developer", "Android App Developer"],
   company: "PPN Solutions Pvt. Ltd.",
   startDate: "2026-05-01",
   currentStack: ["Next.js", "Python", "FastAPI", "Apache Doris"],

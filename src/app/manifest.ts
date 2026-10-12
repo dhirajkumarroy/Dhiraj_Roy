@@ -4,7 +4,7 @@ import { siteConfig } from "@/lib/site";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: `${profile.name} — ${profile.role}`,
+    name: `${profile.name} — ${profile.roles.join(" & ")}`,
     short_name: profile.name,
     description: siteConfig.description,
     start_url: "/",
